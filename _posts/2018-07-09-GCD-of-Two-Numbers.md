@@ -2,7 +2,7 @@
 layout: post
 title:  "GCD of Two Numbers"
 excerpt: "GCD (Greatest Common Divisor) of two numbers a and b is the largest positive number that divides each of the integers (leaving no remainder)."
-permalink: gcd.html
+permalink: gcd
 date:   2018-07-10 14:34:32 +0530
 categories: GCD Euclidean
 ---
