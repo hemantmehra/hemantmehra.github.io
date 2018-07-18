@@ -22,6 +22,11 @@ url: "https://hemantmehra.github.io" # the base hostname & protocol for your sit
 linkedin_username: hemantmehra
 github_username:  hemantmehra
 
+collections:
+  constants:
+    output: true
+    permalink: /constants/:path/
+
 # Build settings
 markdown: kramdown
 theme: minima
